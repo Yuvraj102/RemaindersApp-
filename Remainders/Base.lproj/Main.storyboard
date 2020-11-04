@@ -41,11 +41,6 @@
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" title="Remainders" id="pMX-pz-Fk8">
-                        <barButtonItem key="leftBarButtonItem" title="test" id="epc-iA-WPo">
-                            <connections>
-                                <action selector="testPressed:" destination="BYZ-38-t0r" id="Ve9-uK-UFH"/>
-                            </connections>
-                        </barButtonItem>
                         <barButtonItem key="rightBarButtonItem" image="plus" catalog="system" id="PKl-co-rIb">
                             <connections>
                                 <action selector="addPressed:" destination="BYZ-38-t0r" id="dfl-X9-z7P"/>
